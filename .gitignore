@@ -1,0 +1,13 @@
+# Jupyter Notebook 체크포인트 파일 무시
+.ipynb_checkpoints/
+
+# MacOS, Windows 기본 임시 파일 무시
+.DS_Store
+Thumbs.db
+
+# 파이썬 캐시 무시
+__pycache__/
+*.pyc
+
+# Colab 세션 임시 파일 무시
+*.ipynb_metadata
